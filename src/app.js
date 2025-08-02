@@ -1,8 +1,8 @@
-function greet(name) {
+function greet() {
   console.log("Hello, World!");
 }
 module.exports = greet;
 
 if (require.main === module) {
-  console.log(greet("World"));
+  console.log(greet());
 }
