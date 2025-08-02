@@ -1,0 +1,10 @@
+{
+    "name": "my-awesome-project",
+    "version": "1.0.0",
+    "description": "A project that does awesome things",
+    "main": "src/app.js",
+    "scripts": {
+        "test": "bash src/test.sh"
+    },
+    "dependencies": {}
+}
